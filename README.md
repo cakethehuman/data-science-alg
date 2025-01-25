@@ -1,1 +1,4 @@
-"# data-science-alg" 
+#data-science-alg
+
+from 
+regression to NN
