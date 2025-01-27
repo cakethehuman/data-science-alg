@@ -1,4 +1,13 @@
-#data-science-alg
+# Scikit-Learn Models
 
-from 
-regression to NN
+# Topics using sklearn
+- Classification
+- Decision Trees
+- naive naises
+- random forrest
+- Multi linear regression
+- churn prediction
+- NN
+
+# Topics using other libary
+- Null
