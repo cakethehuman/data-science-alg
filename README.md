@@ -1,4 +1,4 @@
-# Scikit-Learn Models
+# Machine learning Models
 
 Hello im the cake who made this project? 
 I dont know if you can call this a project
