@@ -1,6 +1,6 @@
 import cv2 as cv
 
-img = cv.imread('open cv\soeharto1.jpg')
+img = cv.imread('open cv\any_Image.jpg')
 img_grey = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
 
 

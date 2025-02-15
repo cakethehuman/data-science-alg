@@ -1,6 +1,6 @@
 import cv2 as cv
 
-foto = cv.imread('open cv\souce.jpeg')
+foto = cv.imread('open cv\stock_images.jpg')
 foto_grey = cv.cvtColor(foto, cv.COLOR_BGR2GRAY)
 cc_wajah = cv.CascadeClassifier(cv.data.haarcascades + 'haarcascade_frontalface_alt.xml')
 if cc_wajah.empty():
