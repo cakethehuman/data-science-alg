@@ -1,12 +1,12 @@
 # Machine learning Models
 
-Hello im the cake who made this project? 
-I dont know if you can call this a project
-i rather call it like a libary for algs
-maybe idk.
+Hello im the cake who made this project 
 
 
-# Libary used
+I hope this project can be usefull to who is reading this text.
+
+
+# Libaries that i used
 - sklearn
 - pandas
 - numpy
