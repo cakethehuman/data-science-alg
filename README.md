@@ -15,7 +15,7 @@ I hope this project can be usefull to who is reading this text.
 - open cv
 
 # Topics using sklearn
-- Classification
+- [Classification](https://github.com/cakethehuman/data-science-alg/tree/main/basic%20alg/basic%20alg/classification)
 - Decision Trees
 - naive naises
 - random forrest
