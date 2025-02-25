@@ -1,9 +1,9 @@
-# Machine learning Models
+# Ml with cake :v
 
 Hello im the cake who made this project 
+make sure to check my other projects that i work on :3
 
-
-I hope this project can be usefull to who is reading this text.
+I hope this project can be usefull to who ever is reading this github repo😍
 
 
 # Libaries that i used
@@ -15,7 +15,7 @@ I hope this project can be usefull to who is reading this text.
 - open cv
 
 # What you can learn here
-    - How to use the sklearn (NOT DONE YET!)
+ - How to use the sklearn (NOT DONE YET!)
 
 
 
@@ -38,3 +38,4 @@ I hope this project can be usefull to who is reading this text.
 
 -  # Topics using others
     - will be coming soon
+
